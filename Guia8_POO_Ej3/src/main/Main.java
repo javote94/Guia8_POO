@@ -69,5 +69,6 @@ public class Main {
                 + "\nPersonas mayores de edad: " + ((nMayor / nTotal) * 100)
                 + "\nPersonas menores de edad: " + ((nMenor / nTotal) * 100));
 
+        System.out.println("Prueba: 2do commit");
     }
 }
